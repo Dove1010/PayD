@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dove-impl",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "dove-impl": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "dove-impl",
+    "origin"
+  ]
+}
